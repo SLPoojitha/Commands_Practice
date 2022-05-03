@@ -7,5 +7,7 @@ Selection Procedure: Round 1 - This was an MCQ test in which we had to solve abo
 My Preparation: Initially, I practiced DSA from Leetcode and as time progresses I started using interview bit to make myself comfortable with time pressure. For OS and DBMS I used gate smashers and I referred to interview bit, w3.schools for OOPS.
 
 My Advice: Make sure that your CS fundamental concepts are clear and be prepared with your resume as they might throw any question from it. Also, when you are given a coding question, don't just directly jump to solve it instead try to get clarified on some special cases and always put your thoughts in words.
+
+Overall, it was an Amazing Experience. 
  
 Thank you.
